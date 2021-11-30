@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Eyes_023">
+        <rect id="eyes_guide_center" data-name="eyes guide center" width="320" height="200" fill="blue" opacity="0"/>
+        <g id="Eyes_023-2" data-name="Eyes_023">
+          <polygon points="284.34 96.68 284.34 116.68 274.34 116.68 274.34 126.68 264.34 126.68 264.34 136.68 254.34 136.68 254.34 146.68 194.34 146.68 194.34 136.68 184.34 136.68 184.34 126.68 174.34 126.68 174.34 116.68 164.34 116.68 164.34 106.68 154.34 106.68 154.34 116.68 144.34 116.68 144.34 126.68 134.34 126.68 134.34 136.68 124.34 136.68 124.34 146.68 64.34 146.68 64.34 136.68 54.34 136.68 54.34 126.68 44.34 126.68 44.34 116.68 34.34 116.68 34.34 96.68 284.34 96.68"/>
+          <rect x="54.34" y="106.68" width="10" height="10" fill="#fff"/>
+          <rect x="74.34" y="106.68" width="10" height="10" fill="#fff"/>
+          <rect x="64.34" y="116.68" width="10" height="10" fill="#fff"/>
+          <rect x="84.34" y="116.68" width="10" height="10" fill="#fff"/>
+          <rect x="74.34" y="126.68" width="10" height="10" fill="#fff"/>
+          <rect x="94.34" y="126.68" width="10" height="10" fill="#fff"/>
+          <rect x="184.34" y="106.68" width="10" height="10" fill="#fff"/>
+          <rect x="204.34" y="106.68" width="10" height="10" fill="#fff"/>
+          <rect x="194.34" y="116.68" width="10" height="10" fill="#fff"/>
+          <rect x="214.34" y="116.68" width="10" height="10" fill="#fff"/>
+          <rect x="204.34" y="126.68" width="10" height="10" fill="#fff"/>
+          <rect x="224.34" y="126.68" width="10" height="10" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
